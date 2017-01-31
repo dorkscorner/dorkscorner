@@ -107,7 +107,7 @@ table {
   margin: 0 auto;
 }
 #loading #preloader:after {
-  content: "Phly is loading";
+  content: "";
   /* Text under the circles */
   position: absolute;
   text-transform: uppercase;
@@ -604,7 +604,7 @@ sup {
   position: absolute;
   left: 10%;
   top: 5%;
-  max-width: 250px;
+  max-width: 150px;
 }
 
 #left-side {
